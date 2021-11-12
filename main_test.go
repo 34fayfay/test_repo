@@ -18,7 +18,7 @@ func Test_sum(t *testing.T){
 			name: "bad",
 			a:    2,
 			b:    4,
-			want: 7,
+			want: 9,
 		},
 	}
 
